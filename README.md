@@ -36,7 +36,6 @@ The following tools and technologies are used in this project:
 - **Python Standard Library**:
   - `os`: For file management.
   - `pickle`: For saving and loading precomputed embeddings and filenames.
-  - `Pillow`: For image handling and preprocessing.
 
 ### **Testing and Utilities**
 - **OpenCV**: For testing and visualizing recommendations in `test.py`.
